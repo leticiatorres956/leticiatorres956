@@ -1,4 +1,4 @@
-# Leticia-Profiles
+# @leticiatorres956
 # 💫 About Me:
 ¡Hola! Soy una programadora autodidacta de 33 años apasionada por el desarrollo web. Llevo al menos 6 meses aprendiendo de forma constante sobre programación, centrándome en el desarrollo de aplicaciones y entornos web. Me encanta explorar nuevas tecnologías y mejorar mis habilidades día a día.<br><br>Actualmente estoy adquiriendo experiencia en:<br><br>Lenguajes de programación (como HTML, CSS, JavaScript, etc.)<br><br>Bases de datos (MySQL, PostgreSQL u otras según lo que estés aprendiendo)<br><br>Desarrollo frontend y backend<br><br>Git y control de versiones<br><br>Estoy construyendo proyectos personales mientras sigo aprendiendo y creciendo como desarrolladora. Siempre abierta a colaborar y compartir lo que voy descubriendo en este camino.
 
